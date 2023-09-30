@@ -24248,7 +24248,7 @@ a.ui-button:active, .ui-button:active,
 }
 
 .wpo-pricing-section .wpo-pricing-wrap .wpo-pricing-item-inner img {
-    border-radius: 370px;
+    border-radius: 10px;
 }
 
 @media (max-width: 1399px) {
